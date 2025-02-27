@@ -21,7 +21,6 @@ public class Calculator : MonoBehaviour
     public void MathOperation()
     {
         string operand = buttonText.text;
-        //if (outPutText.text == "0") outPutText.text = "0";
 
         switch (operand)
         {
@@ -34,7 +33,6 @@ public class Calculator : MonoBehaviour
                 firstTerm.text = outPutText.text;
                 lastOperand.text = operand;
                 outPutText.text = "0";
-                Debug.Log(firstTerm.text);
                 break;
             case "-":
                 if (firstTerm.text != "") firstTerm.text = (Convert.ToDouble(firstTerm.text) - Convert.ToDouble(outPutText.text)).ToString();
@@ -67,8 +65,6 @@ public class Calculator : MonoBehaviour
                 outPutText.text = "0";
                 break;
             case "=":
-                Debug.Log(firstTerm.text);
-                Debug.Log(secondTerm.text);
                 if (firstTerm.text == "" && secondTerm.text == "") break;
                 else if (firstTerm.text != "" && secondTerm.text == "")
                 {
