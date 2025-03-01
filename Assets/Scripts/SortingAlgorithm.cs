@@ -3,13 +3,13 @@ using Random = System.Random;
 
 public class Sort : MonoBehaviour
 {
-    public void Start()
-    {
-        int[] array = SetArray(100);
-        WriteArray(array);
-        Debug.Log("=========================");
-        WriteArray(SortingArray(array));
-    }
+    //public void Start()
+    //{
+    //    int[] array = SetArray(100);
+    //    WriteArray(array);
+    //    Debug.Log("=========================");
+    //    WriteArray(SortingArray(array));
+    //}
 
     private int[] SetArray(int lenght)
     {
