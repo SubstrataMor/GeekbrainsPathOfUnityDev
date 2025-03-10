@@ -1,0 +1,432 @@
+fileFormatVersion: 2
+guid: 6531b0c262dc7f543bbcdc579b304d4b
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: kisspng-game-button-jewel-destroyer-graphical-user-interfa-game-ui_0
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 263
+        width: 125
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53c56b53c864dff4598ebad8f5b4c999
+      internalID: 877371715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-game-button-jewel-destroyer-graphical-user-interfa-game-ui_2
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 185
+        width: 54
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ff544f32e1a1054c8bb733e04cfca61
+      internalID: -1165536652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-game-button-jewel-destroyer-graphical-user-interfa-game-ui_3
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 185
+        width: 54
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 763839e72e594d54da2cf90bd335e871
+      internalID: 1178761397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-game-button-jewel-destroyer-graphical-user-interfa-game-ui_4
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 185
+        width: 54
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d26217e077faeaf4d954999f40b78088
+      internalID: 321338747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-game-button-jewel-destroyer-graphical-user-interfa-game-ui_5
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 185
+        width: 54
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdb4b372f9507b1469f13635bbd9de73
+      internalID: -1601576667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-game-button-jewel-destroyer-graphical-user-interfa-game-ui_8
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 78
+        width: 92
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edafcd9a96f92b64aa5b0e69c6485000
+      internalID: 604105049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-game-button-jewel-destroyer-graphical-user-interfa-game-ui_11
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 103
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab1f4b424fe878f4ea3e4b200b05591c
+      internalID: 2139514192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-game-button-jewel-destroyer-graphical-user-interfa-game-ui_12
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 103
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2cd9ab8b1e98274a905c010dd5d7389
+      internalID: -323199734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-game-button-jewel-destroyer-graphical-user-interfa-game-ui_13
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 11
+        width: 64
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f803a0aee61f2bc45917dd4f1dc7e529
+      internalID: 2079512317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-game-button-jewel-destroyer-graphical-user-interfa-game-ui_14
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 11
+        width: 64
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49047d2cbb37d9a4588f961cccf325eb
+      internalID: -701607566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-game-button-jewel-destroyer-graphical-user-interfa-game-ui_15
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 261
+        width: 128
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3ff72d9d3b8b344fac949661e1c3fd9
+      internalID: -1308080732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-game-button-jewel-destroyer-graphical-user-interfa-game-ui_1
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 503
+        width: 278
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb395c25a325609469ffbdc37b0107ab
+      internalID: -1853809104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-game-button-jewel-destroyer-graphical-user-interfa-game-ui_6
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 401
+        width: 280
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fc2d450df1b06f40a273f6a9f945c86
+      internalID: 942049558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 0f67d558b4c4dae4eb13b10becc06263
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      kisspng-game-button-jewel-destroyer-graphical-user-interfa-game-ui_0: 877371715
+      kisspng-game-button-jewel-destroyer-graphical-user-interfa-game-ui_1: -1853809104
+      kisspng-game-button-jewel-destroyer-graphical-user-interfa-game-ui_10: -385951836
+      kisspng-game-button-jewel-destroyer-graphical-user-interfa-game-ui_11: 2139514192
+      kisspng-game-button-jewel-destroyer-graphical-user-interfa-game-ui_12: -323199734
+      kisspng-game-button-jewel-destroyer-graphical-user-interfa-game-ui_13: 2079512317
+      kisspng-game-button-jewel-destroyer-graphical-user-interfa-game-ui_14: -701607566
+      kisspng-game-button-jewel-destroyer-graphical-user-interfa-game-ui_15: -1308080732
+      kisspng-game-button-jewel-destroyer-graphical-user-interfa-game-ui_2: -1165536652
+      kisspng-game-button-jewel-destroyer-graphical-user-interfa-game-ui_3: 1178761397
+      kisspng-game-button-jewel-destroyer-graphical-user-interfa-game-ui_4: 321338747
+      kisspng-game-button-jewel-destroyer-graphical-user-interfa-game-ui_5: -1601576667
+      kisspng-game-button-jewel-destroyer-graphical-user-interfa-game-ui_6: 942049558
+      kisspng-game-button-jewel-destroyer-graphical-user-interfa-game-ui_7: 930045789
+      kisspng-game-button-jewel-destroyer-graphical-user-interfa-game-ui_8: 604105049
+      kisspng-game-button-jewel-destroyer-graphical-user-interfa-game-ui_9: -1048603971
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
