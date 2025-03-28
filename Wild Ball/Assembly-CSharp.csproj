@@ -63,16 +63,22 @@
   <ItemGroup>
     <Compile Include="Assets\_Unity Essentials\Source Files\ThirdPersonController\Scripts\BasicRigidBodyPush.cs" />
     <Compile Include="Assets\Learning Scripts\PlayerController.cs" />
+    <Compile Include="Assets\Learning Scripts\CameraMovementRotation.cs" />
+    <Compile Include="Assets\Learning Scripts\CameraMovement.cs" />
+    <Compile Include="Assets\Learning Scripts\GlobalStringVars.cs" />
+    <Compile Include="Assets\Learning Scripts\ExamplePlayerInput.cs" />
     <Compile Include="Assets\_Unity Essentials\Source Files\Scripts\UpdateCollectibleCount.cs" />
     <Compile Include="Assets\_Unity Essentials\Source Files\ThirdPersonController\Scripts\ThirdPersonController.cs" />
     <Compile Include="Assets\_Unity Essentials\Source Files\Scripts\DoorController.cs" />
     <Compile Include="Assets\Learning Scripts\StarController.cs" />
+    <Compile Include="Assets\Learning Scripts\CorutineSample.cs" />
     <Compile Include="Assets\_Unity Essentials\Source Files\Scripts\CheckCodeEntered.cs" />
     <Compile Include="Assets\_Unity Essentials\Source Files\Scripts\StarterSceneStar.cs" />
     <Compile Include="Assets\Learning Scripts\StarPickup.cs" />
     <Compile Include="Assets\_Unity Essentials\Source Files\InputSystem\StarterAssetsInputs.cs" />
     <Compile Include="Assets\_Unity Essentials\Source Files\Scripts\LoadSceneByIndex.cs" />
     <Compile Include="Assets\Learning Scripts\ChelickController.cs" />
+    <Compile Include="Assets\Learning Scripts\PlayerMovement.cs" />
     <Compile Include="Assets\_Unity Essentials\Scripts\Provided Scripts\Collectible2D.cs" />
     <Compile Include="Assets\_Unity Essentials\Source Files\Scripts\SimpleCameraController.cs" />
     <Compile Include="Assets\_Unity Essentials\Source Files\Scripts\PlaySoundAtRandomIntervals.cs" />
