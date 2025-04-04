@@ -1,0 +1,59 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u0447\u0438\u043A\\Unity\\GitHub\\GeekbrainsPathOfUnityDev\\Platform Game\\Platform King\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{33C05BA4-DD55-BF8A-EA46-9ADDA2C68557}|Assembly-CSharp.csproj|d:\\\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u0447\u0438\u043A\\unity\\github\\geekbrainspathofunitydev\\platform game\\platform king\\assets\\scripts\\globalstringvars.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33C05BA4-DD55-BF8A-EA46-9ADDA2C68557}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\globalstringvars.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GlobalStringVars.cs",
+              "DocumentMoniker": "D:\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u0447\u0438\u043A\\Unity\\GitHub\\GeekbrainsPathOfUnityDev\\Platform Game\\Platform King\\Assets\\Scripts\\GlobalStringVars.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GlobalStringVars.cs",
+              "ToolTip": "D:\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u0447\u0438\u043A\\Unity\\GitHub\\GeekbrainsPathOfUnityDev\\Platform Game\\Platform King\\Assets\\Scripts\\GlobalStringVars.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GlobalStringVars.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T13:59:28.555Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1883,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a0c5197d-0ac7-4b63-97cd-8872a789d233}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
