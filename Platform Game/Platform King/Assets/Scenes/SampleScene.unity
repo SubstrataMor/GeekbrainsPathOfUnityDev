@@ -1477,9 +1477,11 @@ GameObject:
   - component: {fileID: 84988168}
   - component: {fileID: 84988170}
   - component: {fileID: 84988169}
+  - component: {fileID: 84988171}
+  - component: {fileID: 84988172}
   m_Layer: 0
   m_Name: Knight
-  m_TagString: Untagged
+  m_TagString: Damageble
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1575,6 +1577,7 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 249720068}
+  - {fileID: 317511908}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!50 &84988168
@@ -1616,10 +1619,44 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 13c18152e4f8bba4d9cfa297f9598f69, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  jumpForce: 3
+  speed: 1
+  curve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: -1
+      value: -1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - serializedVersion: 3
+      time: 1
+      value: 1
+      inSlope: 2
+      outSlope: 2
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  jumpForce: 2.8
+  jumpOffset: 0.1
   isGrounded: 0
   groundColliderTransform: {fileID: 1811175914}
-  jumpOffset: 0.1
   groundMask:
     serializedVersion: 2
     m_Bits: 8
@@ -1635,6 +1672,34 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e683f8b9182ff014b80d741e26407324, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+--- !u!114 &84988171
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 84988164}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b1b8828a9db52f74ea5cf83efe9f1999, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  maxHealth: 100
+--- !u!114 &84988172
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 84988164}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 98901b939e5bdb2458ae2d61cb0947c8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  projectile: {fileID: 8361339821583189594, guid: 047e6b957472bb54ab449a102312c91c, type: 3}
+  projectileSpeed: 2
+  firePoint: {fileID: 317511908}
 --- !u!1 &87798958
 GameObject:
   m_ObjectHideFlags: 0
@@ -4416,6 +4481,37 @@ Transform:
   m_Children: []
   m_Father: {fileID: 1278283733}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 90}
+--- !u!1 &317511907
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 317511908}
+  m_Layer: 0
+  m_Name: FirePoint
+  m_TagString: Untagged
+  m_Icon: {fileID: 7148428337604731935, guid: 0000000000000000d000000000000000, type: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &317511908
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 317511907}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0.084, y: 0.1772, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 84988167}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &334786050
 GameObject:
   m_ObjectHideFlags: 0
@@ -6046,8 +6142,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 519420028}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: -10}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -0.28674442, y: -1.0751814, z: -2.4480157}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []

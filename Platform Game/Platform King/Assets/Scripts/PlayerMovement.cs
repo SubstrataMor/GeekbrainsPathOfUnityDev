@@ -3,11 +3,19 @@ using UnityEngine;
 [RequireComponent(typeof(Rigidbody2D))]
 public class PlayerMovement : MonoBehaviour
 {
+    [Header("X-axis settings")]
+    [SerializeField] private float speed;
+    [SerializeField] private AnimationCurve curve;
+
+    [Header("Y-axis settings")]
     [SerializeField] private float jumpForce;
-    [SerializeField] private bool isGrounded = false;
-    [SerializeField] private Transform groundColliderTransform;
     [SerializeField] private float jumpOffset;
+    [SerializeField] private bool isGrounded = false;
+
+    [Header("Other settings")]
+    [SerializeField] private Transform groundColliderTransform;
     [SerializeField] private LayerMask groundMask;
+
     private Rigidbody2D rb;
 
     private void Awake()
@@ -24,6 +32,9 @@ public class PlayerMovement : MonoBehaviour
     {
         if (isJumpButtonPressed)
             Jump();
+
+        if (Mathf.Abs(direction) > 0.01f)
+            HorizontalMovement(direction);
     }
 
     private void Jump()
@@ -44,5 +55,10 @@ public class PlayerMovement : MonoBehaviour
     {
         Gizmos.color = Color.blue;
         Gizmos.DrawWireSphere(groundColliderTransform.position, jumpOffset);
+    }
+
+    private void HorizontalMovement(float direction)
+    {
+        rb.linearVelocity = new Vector2(curve.Evaluate(direction) * speed, rb.linearVelocity.y);
     }
 }
