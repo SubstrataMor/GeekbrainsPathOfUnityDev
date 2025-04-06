@@ -16,6 +16,7 @@ public class Health : MonoBehaviour
     {
         currentHealth -= damage;
         CheckIsAlive();
+        Debug.Log(currentHealth);
     }
 
     private void CheckIsAlive()
@@ -23,6 +24,15 @@ public class Health : MonoBehaviour
         if (currentHealth > 0)
             isAlive = true;
         else
+        {
             isAlive = false;
+            Die();
+        }
+    }
+
+    private void Die()
+    {
+        Destroy(gameObject);
+        Debug.Log("Enemy is alive " + isAlive + "\nEnemy die");
     }
 }
