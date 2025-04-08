@@ -76,7 +76,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -114,7 +114,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -158,9 +158,9 @@ TextureImporter:
         x: 54
         y: 19
         width: 26
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -180,9 +180,9 @@ TextureImporter:
         x: 198
         y: 19
         width: 26
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -199,12 +199,12 @@ TextureImporter:
       name: noBKG_KnightJumpAndFall_strip_2
       rect:
         serializedVersion: 2
-        x: 342
+        x: 343
         y: 19
-        width: 26
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 25
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -221,12 +221,12 @@ TextureImporter:
       name: noBKG_KnightJumpAndFall_strip_3
       rect:
         serializedVersion: 2
-        x: 493
+        x: 494
         y: 21
-        width: 21
+        width: 20
         height: 33
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -243,12 +243,12 @@ TextureImporter:
       name: noBKG_KnightJumpAndFall_strip_4
       rect:
         serializedVersion: 2
-        x: 646
+        x: 647
         y: 25
-        width: 20
+        width: 19
         height: 30
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -266,11 +266,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 796
-        y: 32
+        y: 33
         width: 25
-        height: 30
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -288,11 +288,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 949
-        y: 34
-        width: 25
-        height: 30
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        y: 35
+        width: 24
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -310,11 +310,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 1106
-        y: 33
+        y: 34
         width: 21
-        height: 29
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -333,10 +333,10 @@ TextureImporter:
         serializedVersion: 2
         x: 1257
         y: 27
-        width: 22
+        width: 21
         height: 29
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -357,8 +357,8 @@ TextureImporter:
         y: 24
         width: 22
         height: 30
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -375,12 +375,12 @@ TextureImporter:
       name: noBKG_KnightJumpAndFall_strip_10
       rect:
         serializedVersion: 2
-        x: 1555
+        x: 1556
         y: 19
-        width: 28
+        width: 27
         height: 24
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -399,10 +399,10 @@ TextureImporter:
         serializedVersion: 2
         x: 1699
         y: 19
-        width: 26
-        height: 30
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 25
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -419,12 +419,12 @@ TextureImporter:
       name: noBKG_KnightJumpAndFall_strip_12
       rect:
         serializedVersion: 2
-        x: 1843
+        x: 1844
         y: 19
-        width: 26
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 25
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -443,10 +443,10 @@ TextureImporter:
         serializedVersion: 2
         x: 1987
         y: 19
-        width: 26
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 25
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -463,7 +463,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 9fdf8160277a44444b5fc461161f3fe3
     internalID: 0
     vertices: []
     indices: 
@@ -472,7 +472,21 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      noBKG_KnightJumpAndFall_strip_0: 2165001038142686867
+      noBKG_KnightJumpAndFall_strip_1: -3323219810877477076
+      noBKG_KnightJumpAndFall_strip_10: 6344160088250257502
+      noBKG_KnightJumpAndFall_strip_11: 1235375693083715329
+      noBKG_KnightJumpAndFall_strip_12: 2282646019303360540
+      noBKG_KnightJumpAndFall_strip_13: 3917879321971269832
+      noBKG_KnightJumpAndFall_strip_2: -1275732480562838495
+      noBKG_KnightJumpAndFall_strip_3: -6974088986635383677
+      noBKG_KnightJumpAndFall_strip_4: 7819318548096920562
+      noBKG_KnightJumpAndFall_strip_5: 1949507891400082561
+      noBKG_KnightJumpAndFall_strip_6: 2511048077603649539
+      noBKG_KnightJumpAndFall_strip_7: 513507753970481495
+      noBKG_KnightJumpAndFall_strip_8: 8278566502845999923
+      noBKG_KnightJumpAndFall_strip_9: -7022734580619261874
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

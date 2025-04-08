@@ -12,20 +12,13 @@ public class ShooterTimer : MonoBehaviour
     {
         shooter = GetComponent<Shooter>();
         firePointPosition = firePoint.transform.localPosition;
-        Debug.Log(firePointPosition);
         Coroutine coroutine = StartCoroutine(Attack());
-    }
-
-    private void Update()
-    {
-        //Attack();
     }
 
     IEnumerator Attack()
     {
         while (true)
         {
-            Debug.Log(firePointPosition.x);
             shooter.Shoot(firePointPosition.x);
             yield return new WaitForSeconds(3);
         }

@@ -17,10 +17,12 @@ public class PlayerMovement : MonoBehaviour
     [SerializeField] private LayerMask groundMask;
 
     private Rigidbody2D rb;
+    private KnightAnimationController knightAnimation;
 
     private void Awake()
     {
         rb = GetComponent<Rigidbody2D>();
+        knightAnimation = GetComponent<KnightAnimationController>();
     }
 
     private void FixedUpdate()
@@ -31,10 +33,23 @@ public class PlayerMovement : MonoBehaviour
     public void Move(float direction, bool isJumpButtonPressed)
     {
         if (isJumpButtonPressed)
+        {
             Jump();
+        }
 
-        if (Mathf.Abs(direction) > 0.01f)
+        if (!isGrounded)
+        {
+            knightAnimation.StateChanger(KnightAnimationController.JUMP_STATE);
+        }
+
+        if (Mathf.Abs(direction) > 0.2f)
+        {
             HorizontalMovement(direction);
+            if (isGrounded)
+                knightAnimation.StateChanger(KnightAnimationController.WALK_STATE);
+        }
+        else if (Mathf.Abs(direction) <= 0.2f && isGrounded)
+            knightAnimation.StateChanger(KnightAnimationController.IDLE_STATE);
     }
 
     private void Jump()
@@ -60,5 +75,6 @@ public class PlayerMovement : MonoBehaviour
     private void HorizontalMovement(float direction)
     {
         rb.linearVelocity = new Vector2(curve.Evaluate(direction) * speed, rb.linearVelocity.y);
+        knightAnimation.FlipSprite(direction);
     }
 }
