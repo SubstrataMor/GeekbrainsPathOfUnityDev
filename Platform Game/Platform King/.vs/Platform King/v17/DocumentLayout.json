@@ -3,32 +3,44 @@
   "WorkspaceRootPath": "D:\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u0447\u0438\u043A\\Unity\\GitHub\\GeekbrainsPathOfUnityDev\\Platform Game\\Platform King\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{33C05BA4-DD55-BF8A-EA46-9ADDA2C68557}|Assembly-CSharp.csproj|D:\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u0447\u0438\u043A\\Unity\\GitHub\\GeekbrainsPathOfUnityDev\\Platform Game\\Platform King\\assets\\scripts\\shooter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{33C05BA4-DD55-BF8A-EA46-9ADDA2C68557}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\shooter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{33C05BA4-DD55-BF8A-EA46-9ADDA2C68557}|Assembly-CSharp.csproj|d:\\\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u0447\u0438\u043A\\unity\\github\\geekbrainspathofunitydev\\platform game\\platform king\\assets\\scripts\\parallax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33C05BA4-DD55-BF8A-EA46-9ADDA2C68557}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\parallax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{33C05BA4-DD55-BF8A-EA46-9ADDA2C68557}|Assembly-CSharp.csproj|D:\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u0447\u0438\u043A\\Unity\\GitHub\\GeekbrainsPathOfUnityDev\\Platform Game\\Platform King\\assets\\scripts\\shootertimer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{33C05BA4-DD55-BF8A-EA46-9ADDA2C68557}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\shootertimer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{33C05BA4-DD55-BF8A-EA46-9ADDA2C68557}|Assembly-CSharp.csproj|d:\\\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u0447\u0438\u043A\\unity\\github\\geekbrainspathofunitydev\\platform game\\platform king\\assets\\scripts\\parallaxcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33C05BA4-DD55-BF8A-EA46-9ADDA2C68557}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\parallaxcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{33C05BA4-DD55-BF8A-EA46-9ADDA2C68557}|Assembly-CSharp.csproj|d:\\\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u0447\u0438\u043A\\unity\\github\\geekbrainspathofunitydev\\platform game\\platform king\\assets\\scripts\\knightanimationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{33C05BA4-DD55-BF8A-EA46-9ADDA2C68557}|Assembly-CSharp.csproj|D:\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u0447\u0438\u043A\\Unity\\GitHub\\GeekbrainsPathOfUnityDev\\Platform Game\\Platform King\\assets\\scripts\\enemycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33C05BA4-DD55-BF8A-EA46-9ADDA2C68557}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33C05BA4-DD55-BF8A-EA46-9ADDA2C68557}|Assembly-CSharp.csproj|D:\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u0447\u0438\u043A\\Unity\\GitHub\\GeekbrainsPathOfUnityDev\\Platform Game\\Platform King\\assets\\scripts\\knightanimationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{33C05BA4-DD55-BF8A-EA46-9ADDA2C68557}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\knightanimationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33C05BA4-DD55-BF8A-EA46-9ADDA2C68557}|Assembly-CSharp.csproj|D:\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u0447\u0438\u043A\\Unity\\GitHub\\GeekbrainsPathOfUnityDev\\Platform Game\\Platform King\\assets\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33C05BA4-DD55-BF8A-EA46-9ADDA2C68557}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{33C05BA4-DD55-BF8A-EA46-9ADDA2C68557}|Assembly-CSharp.csproj|D:\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u0447\u0438\u043A\\Unity\\GitHub\\GeekbrainsPathOfUnityDev\\Platform Game\\Platform King\\assets\\scripts\\playerinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{33C05BA4-DD55-BF8A-EA46-9ADDA2C68557}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playerinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{33C05BA4-DD55-BF8A-EA46-9ADDA2C68557}|Assembly-CSharp.csproj|D:\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u0447\u0438\u043A\\Unity\\GitHub\\GeekbrainsPathOfUnityDev\\Platform Game\\Platform King\\assets\\scripts\\shootertimer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33C05BA4-DD55-BF8A-EA46-9ADDA2C68557}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\shootertimer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{33C05BA4-DD55-BF8A-EA46-9ADDA2C68557}|Assembly-CSharp.csproj|D:\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u0447\u0438\u043A\\Unity\\GitHub\\GeekbrainsPathOfUnityDev\\Platform Game\\Platform King\\assets\\scripts\\deathzone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{33C05BA4-DD55-BF8A-EA46-9ADDA2C68557}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\deathzone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{33C05BA4-DD55-BF8A-EA46-9ADDA2C68557}|Assembly-CSharp.csproj|D:\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u0447\u0438\u043A\\Unity\\GitHub\\GeekbrainsPathOfUnityDev\\Platform Game\\Platform King\\assets\\scripts\\damagedealer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{33C05BA4-DD55-BF8A-EA46-9ADDA2C68557}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\damagedealer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{33C05BA4-DD55-BF8A-EA46-9ADDA2C68557}|Assembly-CSharp.csproj|D:\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u0447\u0438\u043A\\Unity\\GitHub\\GeekbrainsPathOfUnityDev\\Platform Game\\Platform King\\assets\\scripts\\shooter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33C05BA4-DD55-BF8A-EA46-9ADDA2C68557}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\shooter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{33C05BA4-DD55-BF8A-EA46-9ADDA2C68557}|Assembly-CSharp.csproj|D:\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u0447\u0438\u043A\\Unity\\GitHub\\GeekbrainsPathOfUnityDev\\Platform Game\\Platform King\\assets\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{33C05BA4-DD55-BF8A-EA46-9ADDA2C68557}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{33C05BA4-DD55-BF8A-EA46-9ADDA2C68557}|Assembly-CSharp.csproj|D:\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u0447\u0438\u043A\\Unity\\GitHub\\GeekbrainsPathOfUnityDev\\Platform Game\\Platform King\\assets\\scripts\\damagedealer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33C05BA4-DD55-BF8A-EA46-9ADDA2C68557}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\damagedealer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{33C05BA4-DD55-BF8A-EA46-9ADDA2C68557}|Assembly-CSharp.csproj|D:\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u0447\u0438\u043A\\Unity\\GitHub\\GeekbrainsPathOfUnityDev\\Platform Game\\Platform King\\assets\\scripts\\globalstringvars.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -46,7 +58,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -54,46 +66,81 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "KnightAnimationController.cs",
-              "DocumentMoniker": "D:\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u0447\u0438\u043A\\Unity\\GitHub\\GeekbrainsPathOfUnityDev\\Platform Game\\Platform King\\Assets\\Scripts\\KnightAnimationController.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\KnightAnimationController.cs",
-              "ToolTip": "D:\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u0447\u0438\u043A\\Unity\\GitHub\\GeekbrainsPathOfUnityDev\\Platform Game\\Platform King\\Assets\\Scripts\\KnightAnimationController.cs",
-              "RelativeToolTip": "Assets\\Scripts\\KnightAnimationController.cs",
-              "ViewState": "AgIAADUAAAAAAAAAAAAwwE4AAABJAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "Parallax.cs",
+              "DocumentMoniker": "D:\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u0447\u0438\u043A\\Unity\\GitHub\\GeekbrainsPathOfUnityDev\\Platform Game\\Platform King\\Assets\\Scripts\\Parallax.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Parallax.cs",
+              "ToolTip": "D:\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u0447\u0438\u043A\\Unity\\GitHub\\GeekbrainsPathOfUnityDev\\Platform Game\\Platform King\\Assets\\Scripts\\Parallax.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Parallax.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-07T12:10:39.995Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "DeathZone.cs",
-              "DocumentMoniker": "D:\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u0447\u0438\u043A\\Unity\\GitHub\\GeekbrainsPathOfUnityDev\\Platform Game\\Platform King\\Assets\\Scripts\\DeathZone.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\DeathZone.cs",
-              "ToolTip": "D:\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u0447\u0438\u043A\\Unity\\GitHub\\GeekbrainsPathOfUnityDev\\Platform Game\\Platform King\\Assets\\Scripts\\DeathZone.cs",
-              "RelativeToolTip": "Assets\\Scripts\\DeathZone.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-06T15:43:17.65Z",
+              "WhenOpened": "2025-04-10T16:07:28.752Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "ParallaxController.cs",
+              "DocumentMoniker": "D:\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u0447\u0438\u043A\\Unity\\GitHub\\GeekbrainsPathOfUnityDev\\Platform Game\\Platform King\\Assets\\Scripts\\ParallaxController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ParallaxController.cs",
+              "ToolTip": "D:\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u0447\u0438\u043A\\Unity\\GitHub\\GeekbrainsPathOfUnityDev\\Platform Game\\Platform King\\Assets\\Scripts\\ParallaxController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ParallaxController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T14:18:43.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EnemyController.cs",
+              "DocumentMoniker": "D:\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u0447\u0438\u043A\\Unity\\GitHub\\GeekbrainsPathOfUnityDev\\Platform Game\\Platform King\\Assets\\Scripts\\EnemyController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\EnemyController.cs",
+              "ToolTip": "D:\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u0447\u0438\u043A\\Unity\\GitHub\\GeekbrainsPathOfUnityDev\\Platform Game\\Platform King\\Assets\\Scripts\\EnemyController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\EnemyController.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAwwDIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T12:34:48.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "KnightAnimationController.cs",
+              "DocumentMoniker": "D:\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u0447\u0438\u043A\\Unity\\GitHub\\GeekbrainsPathOfUnityDev\\Platform Game\\Platform King\\Assets\\Scripts\\KnightAnimationController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\KnightAnimationController.cs",
+              "ToolTip": "D:\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u0447\u0438\u043A\\Unity\\GitHub\\GeekbrainsPathOfUnityDev\\Platform Game\\Platform King\\Assets\\Scripts\\KnightAnimationController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\KnightAnimationController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwAsAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T12:10:39.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DeathZone.cs",
+              "DocumentMoniker": "D:\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u0447\u0438\u043A\\Unity\\GitHub\\GeekbrainsPathOfUnityDev\\Platform Game\\Platform King\\Assets\\Scripts\\DeathZone.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\DeathZone.cs",
+              "ToolTip": "D:\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u0447\u0438\u043A\\Unity\\GitHub\\GeekbrainsPathOfUnityDev\\Platform Game\\Platform King\\Assets\\Scripts\\DeathZone.cs",
+              "RelativeToolTip": "Assets\\Scripts\\DeathZone.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T15:43:17.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "ShooterTimer.cs",
               "DocumentMoniker": "D:\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u0447\u0438\u043A\\Unity\\GitHub\\GeekbrainsPathOfUnityDev\\Platform Game\\Platform King\\Assets\\Scripts\\ShooterTimer.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\ShooterTimer.cs",
               "ToolTip": "D:\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u0447\u0438\u043A\\Unity\\GitHub\\GeekbrainsPathOfUnityDev\\Platform Game\\Platform King\\Assets\\Scripts\\ShooterTimer.cs",
               "RelativeToolTip": "Assets\\Scripts\\ShooterTimer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-06T14:14:25.587Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-06T14:14:25.587Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 8,
               "Title": "Shooter.cs",
               "DocumentMoniker": "D:\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u0447\u0438\u043A\\Unity\\GitHub\\GeekbrainsPathOfUnityDev\\Platform Game\\Platform King\\Assets\\Scripts\\Shooter.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Shooter.cs",
@@ -101,12 +148,11 @@
               "RelativeToolTip": "Assets\\Scripts\\Shooter.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-05T15:21:28.552Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-05T15:21:28.552Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "DamageDealer.cs",
               "DocumentMoniker": "D:\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u0447\u0438\u043A\\Unity\\GitHub\\GeekbrainsPathOfUnityDev\\Platform Game\\Platform King\\Assets\\Scripts\\DamageDealer.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\DamageDealer.cs",
@@ -114,12 +160,11 @@
               "RelativeToolTip": "Assets\\Scripts\\DamageDealer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-05T14:19:03.975Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-05T14:19:03.975Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "Health.cs",
               "DocumentMoniker": "D:\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u0447\u0438\u043A\\Unity\\GitHub\\GeekbrainsPathOfUnityDev\\Platform Game\\Platform King\\Assets\\Scripts\\Health.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Health.cs",
@@ -131,33 +176,31 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 4,
               "Title": "PlayerMovement.cs",
               "DocumentMoniker": "D:\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u0447\u0438\u043A\\Unity\\GitHub\\GeekbrainsPathOfUnityDev\\Platform Game\\Platform King\\Assets\\Scripts\\PlayerMovement.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerMovement.cs",
               "ToolTip": "D:\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u0447\u0438\u043A\\Unity\\GitHub\\GeekbrainsPathOfUnityDev\\Platform Game\\Platform King\\Assets\\Scripts\\PlayerMovement.cs",
               "RelativeToolTip": "Assets\\Scripts\\PlayerMovement.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAADMAAABPAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEAAAABWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-04T14:21:16.746Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-04T14:21:16.746Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "PlayerInput.cs",
               "DocumentMoniker": "D:\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u0447\u0438\u043A\\Unity\\GitHub\\GeekbrainsPathOfUnityDev\\Platform Game\\Platform King\\Assets\\Scripts\\PlayerInput.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerInput.cs",
               "ToolTip": "D:\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u0447\u0438\u043A\\Unity\\GitHub\\GeekbrainsPathOfUnityDev\\Platform Game\\Platform King\\Assets\\Scripts\\PlayerInput.cs",
               "RelativeToolTip": "Assets\\Scripts\\PlayerInput.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAQwB0AAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowAsAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-04T14:19:03.611Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-04T14:19:03.611Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "GlobalStringVars.cs",
               "DocumentMoniker": "D:\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u0447\u0438\u043A\\Unity\\GitHub\\GeekbrainsPathOfUnityDev\\Platform Game\\Platform King\\Assets\\Scripts\\GlobalStringVars.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\GlobalStringVars.cs",

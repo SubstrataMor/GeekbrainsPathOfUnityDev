@@ -29,7 +29,6 @@ public class KnightAnimationController : MonoBehaviour
     private void Update()
     {
         StateController();
-        //FlipFirePointPosition();
     }
 
     private void StateController()
@@ -37,17 +36,17 @@ public class KnightAnimationController : MonoBehaviour
         switch (currentState)
         {
             case IDLE_STATE:
-                //ResetAllTriggers();
+                ResetAllTriggers();
                 anim.SetTrigger("Idle");
                 anim.SetBool("IsJump", false);
                 break;
             case WALK_STATE:
-                //ResetAllTriggers();
+                ResetAllTriggers();
                 anim.SetTrigger("Run");
                 anim.SetBool("IsJump", false);
                 break;
             case JUMP_STATE:
-                //ResetAllTriggers();
+                ResetAllTriggers();
                 anim.SetTrigger("Jump");
                 anim.SetBool("IsJump", true);
                 break;
@@ -63,7 +62,7 @@ public class KnightAnimationController : MonoBehaviour
     public void StateChanger(float state)
     {
         currentState = state;
-        ResetAllTriggers();
+        //ResetAllTriggers();
     }
 
     public void FlipSprite(float direction)
