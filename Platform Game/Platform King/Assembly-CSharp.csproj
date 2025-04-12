@@ -75,6 +75,7 @@
     <Compile Include="Assets\Scripts\Shooter.cs" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="Assets\Shaders\FirstShader.shader" />
     <None Include="Assets\Sprites\Taiga-Asset-Pack_vnitti\Readme.txt" />
     <None Include="Assets\Sprites\Pixel Art Platformer - Village Props v2.3.0\Changelog.txt" />
     <None Include="Assets\Sprites\Taiga-Asset-Pack_v2_vnitti\Readme.txt" />
