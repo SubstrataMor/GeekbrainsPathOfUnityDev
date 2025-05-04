@@ -3,11 +3,15 @@
   "WorkspaceRootPath": "D:\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u0447\u0438\u043A\\Unity\\GitHub\\GeekbrainsPathOfUnityDev\\AI and Path search\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B40A2152-D443-C7B0-D436-D5EC77F49DA7}|Assembly-CSharp.csproj|d:\\\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u0447\u0438\u043A\\unity\\github\\geekbrainspathofunitydev\\ai and path search\\assets\\scripts\\agentlinkmover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B40A2152-D443-C7B0-D436-D5EC77F49DA7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\agentlinkmover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B40A2152-D443-C7B0-D436-D5EC77F49DA7}|Assembly-CSharp.csproj|d:\\\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u0447\u0438\u043A\\unity\\github\\geekbrainspathofunitydev\\ai and path search\\assets\\scripts\\playerreycastall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B40A2152-D443-C7B0-D436-D5EC77F49DA7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playerreycastall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B40A2152-D443-C7B0-D436-D5EC77F49DA7}|Assembly-CSharp.csproj|d:\\\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u0447\u0438\u043A\\unity\\github\\geekbrainspathofunitydev\\ai and path search\\assets\\scripts\\playerraycast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B40A2152-D443-C7B0-D436-D5EC77F49DA7}|Assembly-CSharp.csproj|D:\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u0447\u0438\u043A\\Unity\\GitHub\\GeekbrainsPathOfUnityDev\\AI and Path search\\assets\\scripts\\playerraycast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B40A2152-D443-C7B0-D436-D5EC77F49DA7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playerraycast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -31,6 +35,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "AgentLinkMover.cs",
+              "DocumentMoniker": "D:\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u0447\u0438\u043A\\Unity\\GitHub\\GeekbrainsPathOfUnityDev\\AI and Path search\\Assets\\Scripts\\AgentLinkMover.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\AgentLinkMover.cs",
+              "ToolTip": "D:\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u0447\u0438\u043A\\Unity\\GitHub\\GeekbrainsPathOfUnityDev\\AI and Path search\\Assets\\Scripts\\AgentLinkMover.cs",
+              "RelativeToolTip": "Assets\\Scripts\\AgentLinkMover.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T12:46:33.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "PlayerReycastAll.cs",
               "DocumentMoniker": "D:\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u0447\u0438\u043A\\Unity\\GitHub\\GeekbrainsPathOfUnityDev\\AI and Path search\\Assets\\Scripts\\PlayerReycastAll.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerReycastAll.cs",
@@ -43,7 +60,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "PlayerRayCast.cs",
               "DocumentMoniker": "D:\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u0447\u0438\u043A\\Unity\\GitHub\\GeekbrainsPathOfUnityDev\\AI and Path search\\Assets\\Scripts\\PlayerRayCast.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerRayCast.cs",
@@ -51,12 +68,11 @@
               "RelativeToolTip": "Assets\\Scripts\\PlayerRayCast.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-01T14:10:10.151Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-01T14:10:10.151Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "CharacterController.cs",
               "DocumentMoniker": "D:\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u0447\u0438\u043A\\Unity\\GitHub\\GeekbrainsPathOfUnityDev\\AI and Path search\\Assets\\Scripts\\CharacterController.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\CharacterController.cs",
